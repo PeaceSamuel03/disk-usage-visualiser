@@ -33,7 +33,7 @@ make
 - options: -n (sort alphabetically), -h (include hidden files & directories)
 
 ## Sample output
-![Alt text](path/to/image.png)
+![Disk Usage Output Image](disk_usage_image.png)
 
 ## Credits
 Created by Peace Samuel.

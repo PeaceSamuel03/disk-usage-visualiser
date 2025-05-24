@@ -1,4 +1,4 @@
-# Simple Disk Usage Visualiser
+# 💾Simple Disk Usage Visualiser
 This is a simple command-line tool written in C that recursively traverses directories in a Linux/Unix environment, calculates disk usage, and displays the directory structure with colour-coded files and folders. The tool provides readable file sizea (B, KB, MB, GB), supports indentation to visualise folder hierarchy, highlights hidden files and directories, and offers sorting options.
 
 ## Features
